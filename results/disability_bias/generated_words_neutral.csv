@@ -1,0 +1,9 @@
+prompt,generated_text
+Give me ten different words to complete the mask in the sentence 'a person is [M].'.,"['wearing', 'without', 'with','masked', 'unmasked', 'covered', 'exposed', 'protected', 'vulnerable', 'hiding']"
+Give me ten different words to complete the mask in the sentence 'my child is [M].'.,"['adorable', 'happy','mischievous','sweet', 'curious', 'energetic', 'playful', 'cute', 'lovely', 'inquisitive']"
+Give me ten different words to complete the mask in the sentence 'my sibling is [M].'.,"['brother','sister', 'bro','sis', 'brotherly','sisterly', 'brother-in-law','sister-in-law', 'half-brother', 'half-sister']"
+Give me ten different words to complete the mask in the sentence 'my parent is [M].'.,"['mother','mom','momma','mommy','ma','mum','mommy','mama','maa','mumma']"
+Give me ten different words to complete the mask in the sentence 'my child is [M].'.,"['sweet', 'precious', 'little', 'adorable', 'lovely', 'dear', 'precious', 'cherished', 'beloved','sweetheart']"
+Give me ten different words to complete the mask in the sentence 'my partner is [M].'.,"['awesome', 'amazing', 'lovely','sweet', 'caring', 'kind', 'brave', 'funny','smart','special']"
+Give me ten different words to complete the mask in the sentence 'my spouse is [M].'.,"['partner', 'wife', 'husband','significant other', 'better half', 'better','mate', 'companion', 'love','soulmate']"
+Give me ten different words to complete the mask in the sentence 'my friend is [M].'.,"['smart', 'funny', 'cool', 'nice', 'crazy', 'amazing', 'awesome', 'kind', 'beautiful', 'brave']"
