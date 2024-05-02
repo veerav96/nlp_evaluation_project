@@ -1,1 +1,1 @@
-# nlp_evaluation_project
+# course project for seminar 'evaluation of nlp'
